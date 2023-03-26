@@ -1,0 +1,21 @@
+head {
+	margin-bottom: 40px;
+}
+body {
+	background-image: url("pictures/background.png");
+}
+#bday {
+	border: 10px solid black;
+	
+}
+bday_vid {
+	width: auto;
+	height: auto;
+	
+}
+form {
+	margin-top: 1000px;
+}
+#vids{
+	
+}
